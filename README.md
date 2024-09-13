@@ -1,21 +1,22 @@
 🚀 Simple C# Login User Customer for Book Order
+
 📚 Introduction
 This C# application provides basic login functionality and allows you to save customer details (NAME, EMAIL, and PHONE NUMBER) to a textfile.txt file. Perfect for managing book orders!
 
 Requirements:
 
 Visual Studio C# IDE 🖥️
+
 🛠️ Usage
 Clone or Download the Project:
 
 Clone the repository or download the project files from the repository.
 Open the Solution:
 
-Open the solution file (.sln) in your IDE. 🆗
 Build the Project:
 
 Build the project to compile the code. 🏗️
-Run the Application:
+Run the Application: 
 
 Start the application. 🚀
 Enter Customer Information:

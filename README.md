@@ -1,6 +1,6 @@
  Simple C# Login User Customer for Book Order
 Introduction
-This C# application provides a basic login functionality which saves the customers NAME , EMAIL ,and Phone Number as a new customer . txtfile.tx
+This C# application provides a basic login functionality which saves the customers NAME , EMAIL ,and Phone Number as a new customer in a  textfile.txt
 Visual Studio or a compatible C# IDE
 .NET Framework or .NET Core
 Usage
